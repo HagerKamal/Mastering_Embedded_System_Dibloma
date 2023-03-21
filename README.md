@@ -1,2 +1,2 @@
-# Mastering_Embedded_System_Dibloma
+# Mastering_Embedded_System_Diploma
 # Owner : Hager Kamal ~_~
